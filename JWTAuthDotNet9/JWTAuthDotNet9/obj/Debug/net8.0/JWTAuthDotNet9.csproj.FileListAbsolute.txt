@@ -1,0 +1,8 @@
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.csproj.AssemblyReference.cache
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.GeneratedMSBuildEditorConfig.editorconfig
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.AssemblyInfoInputs.cache
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.AssemblyInfo.cs
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.csproj.CoreCompileInputs.cache
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.MvcApplicationPartsAssemblyInfo.cs
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.MvcApplicationPartsAssemblyInfo.cache
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net8.0\JWTAuthDotNet9.sourcelink.json
