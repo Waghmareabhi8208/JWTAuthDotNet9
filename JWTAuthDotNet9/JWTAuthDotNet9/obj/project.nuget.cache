@@ -1,12 +1,19 @@
 {
   "version": 2,
-  "dgSpecHash": "lCNTl7cgsEU=",
+  "dgSpecHash": "D6uH6/dGztw=",
   "success": true,
   "projectFilePath": "D:\\ConsulencyPractise\\JWTAuthDotNet9\\JWTAuthDotNet9\\JWTAuthDotNet9\\JWTAuthDotNet9.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\waghm\\.nuget\\packages\\microsoft.aspnetcore.openapi\\9.0.0\\microsoft.aspnetcore.openapi.9.0.0.nupkg.sha512",
+    "C:\\Users\\waghm\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\8.0.0\\microsoft.extensions.dependencyinjection.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\waghm\\.nuget\\packages\\microsoft.extensions.logging.abstractions\\8.0.0\\microsoft.extensions.logging.abstractions.8.0.0.nupkg.sha512",
+    "C:\\Users\\waghm\\.nuget\\packages\\microsoft.identitymodel.abstractions\\8.18.0\\microsoft.identitymodel.abstractions.8.18.0.nupkg.sha512",
+    "C:\\Users\\waghm\\.nuget\\packages\\microsoft.identitymodel.jsonwebtokens\\8.18.0\\microsoft.identitymodel.jsonwebtokens.8.18.0.nupkg.sha512",
+    "C:\\Users\\waghm\\.nuget\\packages\\microsoft.identitymodel.logging\\8.18.0\\microsoft.identitymodel.logging.8.18.0.nupkg.sha512",
+    "C:\\Users\\waghm\\.nuget\\packages\\microsoft.identitymodel.tokens\\8.18.0\\microsoft.identitymodel.tokens.8.18.0.nupkg.sha512",
     "C:\\Users\\waghm\\.nuget\\packages\\microsoft.openapi\\1.6.17\\microsoft.openapi.1.6.17.nupkg.sha512",
-    "C:\\Users\\waghm\\.nuget\\packages\\scalar.aspnetcore\\2.14.8\\scalar.aspnetcore.2.14.8.nupkg.sha512"
+    "C:\\Users\\waghm\\.nuget\\packages\\scalar.aspnetcore\\2.14.8\\scalar.aspnetcore.2.14.8.nupkg.sha512",
+    "C:\\Users\\waghm\\.nuget\\packages\\system.identitymodel.tokens.jwt\\8.18.0\\system.identitymodel.tokens.jwt.8.18.0.nupkg.sha512"
   ],
   "logs": []
 }

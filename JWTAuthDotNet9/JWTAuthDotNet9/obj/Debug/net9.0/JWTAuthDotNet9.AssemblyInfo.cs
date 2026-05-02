@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("JWTAuthDotNet9")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+fb598a9de7e52da485a4f12b4049a63c6a7b8829")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+abd6f250cf9e10babb14322ade534f903eabaa07")]
 [assembly: System.Reflection.AssemblyProductAttribute("JWTAuthDotNet9")]
 [assembly: System.Reflection.AssemblyTitleAttribute("JWTAuthDotNet9")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

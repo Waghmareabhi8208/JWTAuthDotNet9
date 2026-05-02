@@ -29,3 +29,8 @@ D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net
 D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net9.0\JWTAuthDotNet9.pdb
 D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net9.0\JWTAuthDotNet9.genruntimeconfig.cache
 D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net9.0\ref\JWTAuthDotNet9.dll
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\bin\Debug\net9.0\Microsoft.IdentityModel.Abstractions.dll
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\bin\Debug\net9.0\Microsoft.IdentityModel.JsonWebTokens.dll
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\bin\Debug\net9.0\Microsoft.IdentityModel.Logging.dll
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\bin\Debug\net9.0\Microsoft.IdentityModel.Tokens.dll
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\bin\Debug\net9.0\System.IdentityModel.Tokens.Jwt.dll
