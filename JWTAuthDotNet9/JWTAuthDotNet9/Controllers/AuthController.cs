@@ -32,13 +32,13 @@ namespace JWTAuthDotNet9.Controllers
 
         [HttpPost("login")]
 
-        public async Task<ActionResult<string>> Login(UserDto request) 
+        public async Task<ActionResult<TokenResponseDto>> Login(UserDto request) 
         {
-            var token = await authService.LoginAsync(request);
-            if (token == null) 
+            var result = await authService.LoginAsync(request);
+            if (result == null) 
                 return BadRequest("Invalid username or password.");
             
-            return Ok(token);                                                                                                                                                                                                                                                                                                                                                                                          
+            return Ok(result);                                                                                                                                                                                                                                                                                                                                                                                          
         }
 
         [Authorize]

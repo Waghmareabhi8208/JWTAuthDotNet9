@@ -8,5 +8,9 @@
         public string PasswordHash { get; set; } = string.Empty;
 
         public string role { get; set; } = string.Empty;
+
+        public string? RefreshToken { get; set; }
+
+        public DateTime? RefreshTokenExpiryTime { get; set; }
     }
 }

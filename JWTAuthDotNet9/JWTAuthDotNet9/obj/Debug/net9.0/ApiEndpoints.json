@@ -35,7 +35,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "System.String",
+        "Type": "JWTAuthDotNet9.Models.TokenResponseDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
