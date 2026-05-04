@@ -32,9 +32,9 @@ builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
         options.TokenValidationParameters = new TokenValidationParameters
         {
             ValidateIssuer = true,
-            ValidIssuer = builder.Configuration["AppSettings: Issuer"],
+            ValidIssuer = builder.Configuration["AppSettings:Issuer"],
             ValidateAudience = true,
-            ValidAudience = builder.Configuration["AppSettings: Audience"],
+            ValidAudience = builder.Configuration["AppSettings:Audience"],
             ValidateLifetime = true,
             IssuerSigningKey = new SymmetricSecurityKey(
                 Encoding.UTF8.GetBytes(builder.Configuration["AppSettings:Token"]!)),
@@ -59,6 +59,7 @@ if (app.Environment.IsDevelopment())
 }
 
 app.UseHttpsRedirection();
+app.UseAuthentication();
 app.UseAuthorization();
 app.MapControllers();
 
