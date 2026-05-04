@@ -137,3 +137,4 @@ D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\bin\Debug\net
 D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net9.0\rjimswa.dswa.cache.json
 D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
 D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+D:\ConsulencyPractise\JWTAuthDotNet9\JWTAuthDotNet9\JWTAuthDotNet9\bin\Debug\net9.0\Microsoft.AspNetCore.Authentication.JwtBearer.dll
