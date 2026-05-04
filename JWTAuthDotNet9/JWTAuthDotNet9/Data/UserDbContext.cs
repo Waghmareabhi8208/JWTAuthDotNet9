@@ -1,4 +1,5 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using JWTAuthDotNet9.Entities;
+using Microsoft.EntityFrameworkCore;
 
 namespace JWTAuthDotNet9.Data
 {
