@@ -1,4 +1,5 @@
 using JWTAuthDotNet9.Data;
+using JWTAuthDotNet9.Services;
 using Microsoft.EntityFrameworkCore;
 using Scalar.AspNetCore;
 
@@ -21,6 +22,9 @@ builder.Services.AddCors(options =>
 
 builder.Services.AddDbContext<UserDbContext>(options =>
     options.UseSqlServer(builder.Configuration.GetConnectionString("UserDatabase")));
+
+builder.Services.AddScoped<IAuthService, AuthService>();
+
 
 var app = builder.Build();
 
